@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "bla",
+        "year": "",
+        "categories": "drama",
+        "country": "korea",
+        "img": "https://akns-images.eonline.com/eol_images/Entire_Site/2019726/rs_1024x620-190826230248-lisa-main.jpg?fit=inside|900:auto&output-quality=90",
+        "Descriptions": "",
+        "Episode": [
+            {
+                "name": "Episode1",
+                "link": "https://drive.google.com/uc?export=download&id=15QSsGKvs48qXrTuQeONS0Z383-uzgCqR"
+            }
+        ]
+    }
+]
